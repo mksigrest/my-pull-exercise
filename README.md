@@ -3,3 +3,4 @@
 This is the README file for the "my_pull_exercise"
 
 My name is Nick Buonarota and this is my cool project! :) 
+this is a project for our intro to programming class
